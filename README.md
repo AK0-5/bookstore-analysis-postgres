@@ -4,9 +4,9 @@
 SQL project using PostgreSQL to analyze books, customers, and orders data.
 
 ## Tables Used
-- books <>
-- customers <>
-- orders <>
+- books <https://github.com/AK0-5/bookstore-analysis-postgres/blob/main/Books.csv>
+- customers <https://github.com/AK0-5/bookstore-analysis-postgres/blob/main/Customers.csv>
+- orders <https://github.com/AK0-5/bookstore-analysis-postgres/blob/main/Orders.csv>
 
 ## Key SQL Concepts
 - Joins
